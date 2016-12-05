@@ -1,0 +1,153 @@
+body{
+    /*background-image: url("http://test.scripts.psu.edu/users/j/u/jul229/sponge.gif"); height:20px; width: 100%;*/
+    background-image: url("gold-texture.jpg");
+    /*width: 1000px;*/
+    text-align: center;
+    padding: 10px;
+    /*background-image: url("Golden-Texture-88875.gif");*/
+    background-size: 1600px 1000px;
+}
+h4{
+    
+}
+.topleft{
+    text-align: center;
+    /*background-color: green;*/
+    height: 200px;
+    padding: 0px;
+    /*background-color: red;*/
+}
+.leftleft{
+    padding-top: 100px;
+    padding-left: 0px;
+    /*background-color: black;*/
+}
+.left{
+    padding-top: 100px;
+    padding-left: 0px;
+    /*background-color: pink;*/
+}
+.topmiddle{
+    /*background-color: blue;*/
+    height: 200px;
+    padding: 0px;
+    /*padding-right: 250px;*/
+    /*padd/ing-left: 50px;*/
+    /*margin-left: 50px;*/
+    /*margin-right: 50px;*/
+    /*padding-top: 20px;*/
+}
+.right{
+    padding-top: 100px;
+    /*background-color: red;*/
+}
+.rightright{
+    padding-top: 100px;
+    /*background-color: blue;*/
+}
+.topright{
+    /*background-color: hotpink;*/
+    height: 200px;
+    /*padding: 10px;*/
+    /*margin-right: 10px;*/
+    padding: 0px;
+    /*padding-right: 100px;*/
+}
+.topp{
+    text-align: left;
+    /*padding-right: 10px;*/
+    /*margin: 10px;*/
+}
+.middlep{
+    text-align: left;
+    padding-top: 10px;
+}
+.middleleft{
+    padding: 80px;
+}
+.middleright{
+    padding: 80px;
+}
+.topleftpic{
+    /*background-color: pink;*/
+    padding: 0px;
+}
+.topmiddlepic{
+    /*background-color: blue;*/
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.toprightpic{
+    /*background-color: mediumpurple;*/
+    padding: 0px;
+}
+.toppright{
+    /*color: red;*/
+}
+.toptop{
+    height: 100px;
+}
+.menup{
+    /*background-color: hotpink;*/
+    /*color: blue;*/
+    text-align: left;
+}
+.menu{
+    /*background-color: deeppink;*/
+    text-align: right;
+    height: 60px;
+    
+}
+.menublank{
+    /*background-color: pink;*/
+    height: 60px;
+}
+.top{
+    /*background-color: purple;*/
+    text-align: left;
+}
+.topprice{
+    /*background-color: deeppink;*/
+    text-align: left;
+}
+.middletop{
+    text-align: left;
+    /*background-color: cornflowerblue;*/
+}
+.middleprice{
+    text-align: left;
+    /*background-color: blue;*/
+}
+.middlebottom{
+    /*background-color: green;*/
+    text-align: left;
+}
+.middlebottomprice{
+    /*background-color: greenyellow;*/
+    text-align: left;
+}
+.bottom{
+    /*background-color: grey;*/
+    text-align: left;
+}
+.coffee{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+.coffeeright{
+    background-color: white;
+}
+.topspace{
+    /*background-color: white;*/
+    height: 200px;
+}
+p{
+    font-size: 16pt;
+}
+.coffee{
+    background-color: saddlebrown;
+}
+.coffeebottom{
+    background-color: darkred;
+}
